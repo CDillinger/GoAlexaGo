@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "TaxiIntent",
+      "slots": [
+        {
+          "name": "Direction",
+          "type": "LIST_OF_DIRECTIONS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

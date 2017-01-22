@@ -1,0 +1,5 @@
+TaxiIntent turn {Direction}
+TaxiIntent make a {Direction}
+TaxiIntent {Direction}
+TaxiIntent go {Direction}
+TaxiIntent take a {Direction}
